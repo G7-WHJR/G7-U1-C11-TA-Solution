@@ -1,4 +1,5 @@
-var paddle,ball,points;
+var bricks,points;
+var paddle,ball;
 var edgeT,edgeR, edgeB,edgeL;
 
 function setup() {
